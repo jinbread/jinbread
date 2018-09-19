@@ -40,6 +40,7 @@ template {
 a {
   background-color: transparent;
   text-decoration: none;
+  color: hsla(0, 0%, 0%, 0.8);
   -webkit-text-decoration-skip: objects;
 }
 
@@ -623,8 +624,71 @@ pre tt:before,
 pre tt:after {
   content: "";
 }
+
+h2 {
+  line-height: 2.2rem;
+}
+
+
+p {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.container {
+  margin-top: 4rem;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.detail {
+  font-size: 0.7em;
+  color: #cccccc;
+  letter-spacing: 0.01rem;
+  text-align: right;
+}
+
+@media screen and (max-width: 640px) {
+  .content {
+      display: block;
+  }
+  .detail {
+      text-align: left;
+  }
+  p {
+      margin-bottom: 0.2rem;
+  }
+}
+
+
+
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
   }
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+
+.soMe {
+  display: grid;
+  grid-template-columns: 20px 22px 20px;
+  grid-gap: 6px;
+  grid-auto-flow:        column;
+  grid-auto-columns:     1fr;
+  text-align: center;
+  
+}
+
+.icon {
+  margin: 0;
+  /* margin: auto; */
+  /* vertical-align: middle; */
 }
