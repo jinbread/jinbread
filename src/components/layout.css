@@ -655,11 +655,18 @@ p {
   .content {
       display: block;
   }
+
   .detail {
       text-align: left;
   }
+
   p {
+      font-size: 1.1rem;
       margin-bottom: 0.2rem;
+  }
+
+  .title {
+      margin-bottom: 0;
   }
 }
 
