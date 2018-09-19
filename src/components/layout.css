@@ -692,3 +692,11 @@ p {
   /* margin: auto; */
   /* vertical-align: middle; */
 }
+
+.desc {
+  margin: 2rem 0 2rem 0;
+}
+
+.desc p {
+  line-height: 1.8rem;
+}
