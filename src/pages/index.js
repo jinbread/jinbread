@@ -33,7 +33,7 @@ const IndexPage = () => (
       <div className='content'>
         <p className='title'><a href='https://www.behance.net/gallery/71168665/HIUT-Make-your-name-in-Korean'>Project Hiut</a></p>
         <p className='detail'>Interation Design</p>
-        <p className='title'><a href='https://mid-spot.netlify.com/'>Mid-spot website</a></p>
+        <p className='title'><a href='https://mid-spot.netlify.com/'>Mid-spot website(TBD)</a></p>
         <p className='detail'>Frontend Development</p>
         <p className='title'><a href='https://followmove.netlify.com/'>Follow your move</a></p>
         <p className='detail'>UI Development, two.js</p>
