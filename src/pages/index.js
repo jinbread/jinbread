@@ -15,7 +15,7 @@ const IndexPage = () => (
     <div className='container'>
       <h4>Works</h4>
       <div className='content'>
-        <p className='title'><Link to="https://www.youtube.com/watch?v=MfogrhOouZE">Hyundai WRC Real Play</Link></p>
+        <p className='title'><a href="https://www.youtube.com/watch?v=MfogrhOouZE">Hyundai WRC Real Play</a></p>
         <p className='detail'>Art Direction, Experience Design</p>
         <p className='title'><a href='https://www.youtube.com/watch?v=6a97u3tkFQo'>Hyundai IONIQ Explore Plant VR</a></p>
         <p className='detail'>Art Direction, Experience Design</p>
