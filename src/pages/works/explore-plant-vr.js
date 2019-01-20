@@ -1,5 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import YouTube from 'react-youtube';
+
 
 import Layout from '../../components/layout'
 
@@ -7,12 +9,18 @@ const ExplorePlant = () => (
   <Layout>
     <div>
         <div>
-            <h2>Explore Plant VR</h2>
+            <h2>Explore VR Plant</h2>
         </div>
 
         <div>
             <h3>How can we communicate how the electric car is manufactured in an exciting way?</h3>   
         </div>
+
+        <YouTube
+            videoId="6a97u3tkFQo"
+            className='youtube'
+        />
+        
 
         <div className='desc'>
             <h4>Challenge</h4>

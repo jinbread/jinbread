@@ -17,7 +17,7 @@ const IndexPage = () => (
       <div className='content'>
         <p className='title'><Link to="/works/wrc-real-play">Hyundai WRC Real Play</Link></p>
         <p className='detail'>Art Direction, Experience Design</p>
-        <p className='title'><Link to="/works/explore-plant-vr">Hyundai IONIQ Explore Plant VR</Link></p>
+        <p className='title'><Link to="/works/explore-plant-vr">Hyundai IONIQ Explore VR Plant</Link></p>
         <p className='detail'>Art Direction, Experience Design</p>
         <p className='title'><a href='#'>Electrolux Digital UX Foundation</a></p>
         <p className='detail'>Interaction Design, Prototyping</p>
