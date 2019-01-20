@@ -9,16 +9,29 @@ const ExplorePlant = () => (
         <div>
             <h2>Explore Plant VR</h2>
         </div>
+
+        <div>
+            <h3>How can we communicate how the electric car is manufactured in an exciting way?</h3>   
+        </div>
+
         <div className='desc'>
-            <h4>Problem</h4>
+            <h4>Challenge</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar dolor vel libero scelerisque, non tristique erat tristique. Integer sed velit odio. Nullam lorem lectus, consectetur ornare enim ac, condimentum finibus ipsum. Cras bibendum, leo non auctor tristique, augue nisl eleifend libero, vel pellentesque diam urna non tellus. </p>
         </div>
         <div className='desc'>
-            <h4>Solution</h4>
+            <h4>Concept</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar dolor vel libero scelerisque, non tristique erat tristique. Integer sed velit odio. Nullam lorem lectus, consectetur ornare enim ac, condimentum finibus ipsum. Cras bibendum, leo non auctor tristique, augue nisl eleifend libero, vel pellentesque diam urna non tellus. </p>
         </div>
         <div className='desc'>
-            <h4>Hyundai VR+ App</h4>
+            <h4>Production</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar dolor vel libero scelerisque, non tristique erat tristique. Integer sed velit odio. Nullam lorem lectus, consectetur ornare enim ac, condimentum finibus ipsum. Cras bibendum, leo non auctor tristique, augue nisl eleifend libero, vel pellentesque diam urna non tellus. </p>
+        </div>
+        <div className='desc'>
+            <h4>Hyundai Motorstudio Digital</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar dolor vel libero scelerisque, non tristique erat tristique. Integer sed velit odio. Nullam lorem lectus, consectetur ornare enim ac, condimentum finibus ipsum. Cras bibendum, leo non auctor tristique, augue nisl eleifend libero, vel pellentesque diam urna non tellus. </p>
+        </div>
+        <div className='desc'>
+            <h4>Google Expedition</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar dolor vel libero scelerisque, non tristique erat tristique. Integer sed velit odio. Nullam lorem lectus, consectetur ornare enim ac, condimentum finibus ipsum. Cras bibendum, leo non auctor tristique, augue nisl eleifend libero, vel pellentesque diam urna non tellus. </p>
         </div>
 

@@ -13,11 +13,14 @@
     "gatsby-plugin-manifest": "^2.0.2",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-remark-embed-youtube": "^0.0.7",
+    "gatsby-source-youtube": "^1.0.1",
     "i": "^0.3.6",
     "npm": "^6.4.1",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
+    "react-youtube": "^7.9.0",
     "three": "^0.96.0"
   },
   "keywords": [
