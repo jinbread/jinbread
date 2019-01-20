@@ -18,7 +18,9 @@ const RealPlay = () => (
 
         <YouTube
             videoId="MfogrhOouZE"
+            className='youtube'
         />
+        
 
         <div className='desc'>
             <p>For the first time in 2014, Hyundai Motor Company joined the World Rally Championship (WRC) to prove their high-performance technology through the i20 WRC rally car. However, Hyundai was the last to join the race compared to other automobile companies and needed to prove their performance capabilities to fans and competitors rapidly. </p>
