@@ -15,9 +15,9 @@ const IndexPage = () => (
     <div className='container'>
       <h4>Works</h4>
       <div className='content'>
-        <p className='title'><a href="https://www.youtube.com/watch?v=MfogrhOouZE">Hyundai WRC Real Play</a></p>
+        <p className='title'><Link to="/works/wrc-real-play">Hyundai WRC Real Play</Link></p>
         <p className='detail'>Art Direction, Experience Design</p>
-        <p className='title'><a href='https://www.youtube.com/watch?v=6a97u3tkFQo'>Hyundai IONIQ Explore Plant VR</a></p>
+        <p className='title'><Link to="/works/explore-plant-vr">Hyundai IONIQ Explore Plant VR</Link></p>
         <p className='detail'>Art Direction, Experience Design</p>
         <p className='title'><a href='#'>Electrolux Digital UX Foundation</a></p>
         <p className='detail'>Interaction Design, Prototyping</p>
@@ -37,7 +37,7 @@ const IndexPage = () => (
         <p className='detail'>Frontend Development</p>
         <p className='title'><a href='https://followmove.netlify.com/'>Follow your move</a></p>
         <p className='detail'>UI Development, two.js</p>
-        <p className='title'><a href='#'>CLO:CK:ED:IN</a></p>
+        <p className='title'><Link to="/sides/clockedin">CLO:CK:ED:IN</Link></p>
         <p className='detail'>Creative Coding, Processing, Arduino</p>
       </div>
     </div>
